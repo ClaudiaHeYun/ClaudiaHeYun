@@ -1,1 +1,1 @@
-I'm Claudia Yun, a graduate student in math at Brown University. I'm interested in combinatorial algebraic geometry and tropical geometry. For more info, visit [my website](http://claudiayun.com).
+I'm Claudia Yun, a postdoc at the Max Planck Institute for math in Leipzig, Germany. I'm interested in computational and combinatorial algebraic geometry and topology, and tropical geometry. For more info, visit [my website](http://claudiayun.com).
